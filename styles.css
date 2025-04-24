@@ -585,3 +585,9 @@ footer {
         flex-direction: column;
     }
 }
+
+.button {
+    background-color: #397fe8;
+    border: none;
+    font-weight: bold;
+}
